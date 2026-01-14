@@ -46,21 +46,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### AI & ML Projects
-- Coursework and personal projects demonstrating applied AI and data science techniques  
-- Focused on maintainable, well-documented code
-
-### Web Development Projects
-- Full-stack web applications built during my professional experience  
-- Showcasing practical skills in frontend and backend development
-
-> Take a look at my pinned repositories to explore my work!
-
----
-
-
 ## 🤝 Let’s Connect
 
 - Open to AI internships, junior AI roles, and collaborative projects  
@@ -76,6 +61,3 @@ I love combining AI innovation with software engineering to build impactful solu
 
 ---
 
-<!-- GitHub stats -->
-
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam-parmar-ai&show_icons=true&theme=radical)](https://github.com/Gautam-parmar-ai)
