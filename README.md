@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Gautam Parmar
 
-<!--
-**gautam-parmar-ai/gautam-parmar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Artificial Intelligence student at the University of Verona, Italy  
+💻 Former Web Developer experienced in building scalable web applications  
+🤖 Passionate about developing intelligent AI systems and machine learning models
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- Deepening my expertise in **Machine Learning, Deep Learning, and AI deployment**  
+- Bridging strong software engineering skills with AI research to deliver practical solutions  
+- Experienced in full-stack web development, enabling integration of AI into real-world applications  
+- Committed to building efficient, production-ready AI models that solve real problems
+
+---
+
+## 🛠️ Technical Skills
+
+### Artificial Intelligence & Machine Learning
+- Supervised & Unsupervised Learning  
+- Neural Networks & Deep Learning  
+- Model Training, Evaluation & Optimization  
+- Data Preprocessing & Feature Engineering
+
+### Programming & Web Development
+- Python (primary AI language)  
+- JavaScript, HTML, CSS  
+- React & Node.js  
+- REST APIs & SQL Databases (PostgreSQL, MySQL)
+
+### Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebooks  
+- Docker  
+- Linux
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Deep Learning architectures  
+- AI model deployment & MLOps practices  
+- Scalable AI systems  
+- Research methods in AI and data science
+
+---
+
+## 📌 Featured Projects
+
+### AI & ML Projects
+- Coursework and personal projects demonstrating applied AI and data science techniques  
+- Focused on maintainable, well-documented code
+
+### Web Development Projects
+- Full-stack web applications built during my professional experience  
+- Showcasing practical skills in frontend and backend development
+
+> Take a look at my pinned repositories to explore my work!
+
+---
+
+
+## 🤝 Let’s Connect
+
+- Open to AI internships, junior AI roles, and collaborative projects  
+- Reach out to discuss AI, software, or tech innovations
+
+📫 [LinkedIn](https://www.linkedin.com/in/gautam-parmar-728a381ba/)
+
+---
+
+## ⚡ Fun Fact
+
+I love combining AI innovation with software engineering to build impactful solutions that work in the real world.
+
+---
+
+<!-- GitHub stats -->
+
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam-parmar-ai&show_icons=true&theme=radical)](https://github.com/Gautam-parmar-ai)
